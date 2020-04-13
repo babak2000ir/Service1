@@ -1,0 +1,5 @@
+{
+    "al.defaultLaunchConfigurationName": "Microsoft cloud sandbox",
+    "CRS.FileNamePattern": "<ObjectName> [<ObjectId>].al",
+    "CRS.ExtensionObjectNamePattern": "<BaseName> ext [ObjectId].al"
+}
